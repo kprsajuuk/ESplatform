@@ -1,0 +1,17 @@
+.tc{
+  &-box{
+    background: #1a1a20;
+    cursor: pointer;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 16px;
+    border-top: 1px solid #35353a;
+    &-left{
+      display: flex;
+    }
+    &-right{
+
+    }
+  }
+}
